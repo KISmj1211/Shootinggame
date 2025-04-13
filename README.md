@@ -1,4 +1,5 @@
 This game is a game where you shoot the enemies and gain points and health as much as you want!
+<img width="795" alt="Screenshot 2025-04-13 at 5 45 15 PM" src="https://github.com/user-attachments/assets/382f383b-34cd-4ef8-95ef-0803ad0b54cf" />
 
 
 ## How to play
